@@ -74,7 +74,7 @@ async def start_cmd(client, message):
         reply_markup=InlineKeyboardMarkup([
             [InlineKeyboardButton("ℹ️ 𝖠𝖻𝗈𝗎𝗍", callback_data="about"),
              InlineKeyboardButton("📚 𝖧𝖾𝗅𝗉", callback_data="help")],
-            [InlineKeyboardButton("💬 𝖥𝖾𝖾𝖽𝖻𝖺𝖼𝗄 💬", url="https://telegram.me/TechifySupport")]
+            [InlineKeyboardButton("💬 𝖥𝖾𝖾𝖽𝖻𝖺𝖼𝗄 💬", url="https://telegram.me/anujedits76")]
         ])
     )
 
